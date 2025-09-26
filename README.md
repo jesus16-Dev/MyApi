@@ -37,6 +37,7 @@ MyApi/
 │── Program.cs           # Punto de entrada
 │── appsettings.json     # Configuración
 
+ 
  Posibles mejoras futuras
 
 - Implementar DTOs de lectura para devolver datos más limpios.
