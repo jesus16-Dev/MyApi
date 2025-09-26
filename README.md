@@ -28,14 +28,14 @@ MySQL
 Estructura del proyecto
 
 MyApi/
-│── Configurations/      # Configuración de entidades (Fluent API)
-│── Controllers/         # Controladores de la API
-│── DTOs/                # DTOs para entrada de datos
-│── Data/                # DbContext
-│── Models/              # Modelos de dominio
-│── Migrations/          # Migraciones de Entity Framework
-│── Program.cs           # Punto de entrada
-│── appsettings.json     # Configuración
+│── Configurations/  # Configuración de entidades (Fluent API)
+│── Controllers/ # Controladores de la API
+│── DTOs/ # DTOs para entrada de datos
+│── Data/  # DbContext
+│── Models/ # Modelos de dominio
+│── Migrations/ # Migraciones de Entity Framework
+│── Program.cs # Punto de entrada
+│── appsettings.json # Configuración
 
  
  Posibles mejoras futuras
